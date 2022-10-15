@@ -1,6 +1,12 @@
+These tools help the hunters find vulnerabilities in software, web applications and websites, and are an integral part of bounty hunting. 
+Below is our top 10 list of security tools for bug bounty hunters
 1. Burp-Suite
 2. Metasploit
 3. Wfuzz
 4. SqlMap
 5. Wpscan
-These tools help the hunters find vulnerabilities in software, web applications and websites, and are an integral part of bounty hunting. Below is our top 10 list of security tools for bug bounty hunters
+6. Ping
+7. Angry IP Scanner
+8. Netcat
+9. Netcraft
+10. IP serve
